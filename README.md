@@ -1,4 +1,4 @@
-## How to land a technichal internship
+## How to land a technical internship
 
 ### Contents
 * [Writing your CV](#writing-your-cv)
@@ -21,6 +21,9 @@ You can get a second opinion regarding your CV on: https://www.reddit.com/r/Engi
 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Microsoft |
 | [Insert-Delete-Get Random](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Hudson River Trading |
 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | IMC Trading |
+| [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | Bloomberg LP |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Google |
+| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Google |
 
 ### Applications
 
@@ -33,6 +36,7 @@ Open positions for 2020-2021 in alphabetical order
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/878093/Intern-Opportunities-for-Students-UK-Software-Engineering-and-Program-Management) | London, UK | Summer 2021 | $$ |
 | [IMC Trading](https://careers.imc.com/eu/en/job/REQ-00937/Software-Engineer-Intern) | Amsterdam, Netherlands | Summer 2021 | $$$ |
 | [Bending Spoons](https://bendingspoons.com/careers.html) | Milan, Italy | Summer 2021 | $$ |
+| [Google STEP Internship](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=step&sort_by=relevance) | USA | Summer 2021 | $$ |
 
 ### Contribution Guidelines
 You can make contributions to this repository by opening [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
