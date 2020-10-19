@@ -37,6 +37,8 @@ Open positions for 2020-2021 in alphabetical order
 | [IMC Trading](https://careers.imc.com/eu/en/job/REQ-00937/Software-Engineer-Intern) | Amsterdam, Netherlands | Summer 2021 | $$$ |
 | [Bending Spoons](https://bendingspoons.com/careers.html) | Milan, Italy | Summer 2021 | $$ |
 | [Google STEP Internship](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=step&sort_by=relevance) | USA | Summer 2021 | $$ |
+| [Bloomberg LP](https://careers.bloomberg.com/job/detail/84364) | London, UK | Summer 2021 | $$ |
+| [Amazon](https://www.amazon.jobs/en/jobs/1261471/software-development-engineer-graduate-2021-amsterdam-the-netherlands) | Several, London, Amsterdam, Madrid | Summer 2021 | $$ |
 
 ### Contribution Guidelines
 You can make contributions to this repository by opening [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
