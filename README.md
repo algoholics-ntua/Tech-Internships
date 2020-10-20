@@ -24,6 +24,8 @@ You can get a second opinion regarding your CV on: https://www.reddit.com/r/Engi
 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | Bloomberg LP |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Google |
 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Google |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | Amazon |
+| [Minimum Knight Moves](https://www.hackerrank.com/contests/20-20-hack-test/challenges/minimum-knight-moves/problem) | Easy | IMC Trading |
 
 ### Applications
 
@@ -38,7 +40,7 @@ Open positions for 2020-2021 in alphabetical order
 | [Bending Spoons](https://bendingspoons.com/careers.html) | Milan, Italy | Summer 2021 | $$ |
 | [Google STEP Internship](https://careers.google.com/jobs/results/93605726980580038-step-intern-second-year-student-summer-2021/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=INTERN&hl=en_US&jlo=en_US&q=step&sort_by=relevance) | USA | Summer 2021 | $$ |
 | [Bloomberg LP](https://careers.bloomberg.com/job/detail/84364) | London, UK | Summer 2021 | $$ |
-| [Amazon](https://www.amazon.jobs/en/jobs/1261471/software-development-engineer-graduate-2021-amsterdam-the-netherlands) | Several, London, Amsterdam, Madrid | Summer 2021 | $$ |
+| [Amazon](https://www.amazon.jobs/en/jobs/1261471/software-development-engineer-graduate-2021-amsterdam-the-netherlands) | London, Amsterdam, Madrid | Summer 2021 | $$ |
 
 ### Contribution Guidelines
 You can make contributions to this repository by opening [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
