@@ -33,7 +33,9 @@ Open positions for 2020-2021 in alphabetical order
 
 | Name |Location | Internship Period | Notes |
 |---|---|---|---|
+| [Citrix](https://jobs.citrix.com/job/R22608/Intern-Software-Engineer) | Patras, Greece | Summer 2021 | $ |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/4787572002/)| New York, USA | Summer 2021 | $$$ |
+| [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210020179/)| London, UK | Summer 2021 | $$$ |
 | [Facebook](https://www.facebook.com/careers/jobs/1716969328451048/) | London, UK | Summer 2021 | $$ |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/878093/Intern-Opportunities-for-Students-UK-Software-Engineering-and-Program-Management) | London, UK | Summer 2021 | $$ |
 | [IMC Trading](https://careers.imc.com/eu/en/job/REQ-00937/Software-Engineer-Intern) | Amsterdam, Netherlands | Summer 2021 | $$$ |
