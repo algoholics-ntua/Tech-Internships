@@ -44,6 +44,7 @@ Open positions for 2020-2021 in alphabetical order
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210020179/)| London, UK | Summer 2021 | $$$ |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/878093/Intern-Opportunities-for-Students-UK-Software-Engineering-and-Program-Management) | London, UK | Summer 2021 | $$ |
 | [Spotify](https://spotifyjobs.com/job/full-stack-engineering-summer-internship/) | Stockholm, Sweden | Summer 2021 | $$ |
+| [Uber](https://www.uber.com/global/en/careers/list/64205/) | Amsterdam, Netherlands | Summer 2021 | $ |
 
 ### Contribution Guidelines
 You can make contributions to this repository by opening [pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
