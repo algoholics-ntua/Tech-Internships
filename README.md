@@ -20,12 +20,10 @@ You can get a second opinion regarding your CV on: https://www.reddit.com/r/Engi
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Bloomberg LP |
 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | Microsoft |
 | [Insert-Delete-Get Random](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | Hudson River Trading |
-| [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | Medium | IMC Trading |
 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | Bloomberg LP |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Google |
 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | Google |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | Amazon |
-| [Minimum Knight Moves](https://www.hackerrank.com/contests/20-20-hack-test/challenges/minimum-knight-moves/problem) | Easy | IMC Trading |
 
 ### Applications
 
