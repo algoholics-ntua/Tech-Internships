@@ -8,9 +8,15 @@
 
 ### Writing your CV
 
-**NEVER** pay for a glorified CV template. Always use the wide variety available e.g overleaf/CV.
+**NEVER** pay for a glorified CV template. There is a wide variate of
+templates available for free (e.g. in [overleaf](https://www.overleaf.com/gallery/tagged/cv)).
 
-You can get a second opinion regarding your CV on: https://www.reddit.com/r/EngineeringResumes/
+There are also plenty places where you can find tips for
+software engineering CVs, e.g.
+[1](https://youtu.be/BYUy1yvjHxE),
+[2](https://www.youtube.com/watch?v=xpaz7nrNmXA).
+
+You can also get a second opinion regarding your CV on [reddit](https://www.reddit.com/r/EngineeringResumes/).
 
 ### Interview Preparation
 
