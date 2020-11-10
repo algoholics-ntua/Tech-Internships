@@ -20,6 +20,23 @@ You can also get a second opinion regarding your CV on [reddit](https://www.redd
 
 ### Interview Preparation
 
+There are many sites where you can practice interview problems online.
+The most famous ones are [LeetCode](https://leetcode.com/problemset/top-interview-questions/)
+and the Interview Preparation Kit on [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit)
+
+LeetCode recently created some problem packs of various difficulties,
+that contain problems from all the categories you will need (e.g. Arrays, Lists, Trees, DP etc)
+
+You can find them here:
+[Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/),
+[Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/),
+[Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/).
+
+We higly recommend them and we also suggest to start with the Easy problem pack
+(even if you are experienced with algorithms) and work your way to hard.
+
+Some other common problems you can try are:
+
 | Problem | Difficulty | Company |
 |---------|------------|---------|
 | [First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Bloomberg LP |
